@@ -1,6 +1,6 @@
 # 💰 Budget Manager & Visualizer
 
-A robust, Object-Oriented Python application designed to manage budget categories, track ledger transactions, and visualize spending habits via a dynamically generated bar chart.
+A robust, Object-Oriented Python application designed to manage budget categories, track ledger transactions, and visualize spending habits via a dynamically generated bar chart. A solution to freecodecamp's python certification project.
 
 ## 🚀 Project Overview
 
